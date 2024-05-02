@@ -1,0 +1,21 @@
+---
+all:
+  children:
+    leafs:
+      hosts:
+        leaf1:
+        leaf2:
+        leaf3:
+        leaf4:
+        borderleaf1:
+        borderleaf2:
+    spines:
+      hosts:
+        spine1:
+        spine2:
+        spine3:
+        spine4:
+    borderleafs:
+      hosts:
+        borderleaf1:
+        borderleaf2:
